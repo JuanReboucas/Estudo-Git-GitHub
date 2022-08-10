@@ -10,3 +10,11 @@ O que é controle de versão?
 * criar versões de um software em diferentes estagios, podendo alterar facilmente entre elas;
 * cada membro da equipe pode trabalhar em uma versão diferente;
 * ha ferramentas para trabalhar o controle de versão como: git e SVN
+
+
+O que é Git?
+* o sistema de controle de versão mais utilizado no mundo atualmente;
+* o git é baseado m repositorios, que contem todas as versões do codigo e tambem copias de cada desenvolvedor;
+* todas as operações do git são otimizadas para ter alto desempenho;
+* todos os objetos do git são protegidos como criptografia para evitar alterações indevidas e maliciosas;
+* o git é um projeto de codigo aberto;
