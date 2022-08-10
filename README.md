@@ -18,3 +18,6 @@ O que é Git?
 * todas as operações do git são otimizadas para ter alto desempenho;
 * todos os objetos do git são protegidos como criptografia para evitar alterações indevidas e maliciosas;
 * o git é um projeto de codigo aberto;
+
+  O que é um repositório?
+  
