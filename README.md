@@ -1,4 +1,4 @@
-Estoudo Sobre o Git e GitHub
+Estudo Sobre o Git e GitHub
 
 Instalação
 https://git-scm.com/downloads
