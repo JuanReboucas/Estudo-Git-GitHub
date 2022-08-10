@@ -20,4 +20,9 @@ O que é Git?
 * o git é um projeto de codigo aberto;
 
   O que é um repositório?
+  * é onde o codigo sera armazenado;
+  * na maioria das vezes cada projeto tem um repositorio;
+  * quando criamos um repositorio estamos iniciando um projeto;
+  * o repositorio pode ir para servidores que são especializa dos em gerenciar repo:GitHub e Bitbucket;
+  * cada um dos desenvolvedores do time pode baixar o repositorio e criar versões diferentes em sua maquina;
   
