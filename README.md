@@ -28,3 +28,6 @@ O que é Git?
   
 Como criar um repositorio?
 * comando git init
+
+Como para que serve o git status?
+O comando git status exibe as condições do diretório de trabalho e da área de staging.
