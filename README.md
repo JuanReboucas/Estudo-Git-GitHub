@@ -37,3 +37,10 @@ O que é GitHub?
 * podemos enviar nossos projetos para o GitHub e disponibiliza-lo para oustros devs;
 * o GitHub é gratuito tanto para projetos publicos como privados;
 * vamos criar uma conta em github.com
+
+Como enviar nossos repositorios locais para o GitHub;
+* podemos facilmente enviar nossos repos para o GitHub;
+* precisamos criar o projeto no GitHub, inicializar o mesmo no git em nossa maquina, sicronizar com o GH e enviar;
+* e esta sequencia que parece ser complexa é facilemnte executada por poucos comandos;
+* vale lembrar que só fazemos uma vez por projeto este fluxo;
+* porem alguns dos comandos utilizados vão ser úteis ao longo do curso;
