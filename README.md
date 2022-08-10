@@ -31,3 +31,9 @@ Como criar um repositorio?
 
 Como para que serve o git status?
 O comando git status exibe as condições do diretório de trabalho e da área de staging.
+
+O que é GitHub?
+* é um serviço para gerenciar repositorios, gratuito e amplamente utilizado;
+* podemos enviar nossos projetos para o GitHub e disponibiliza-lo para oustros devs;
+* o GitHub é gratuito tanto para projetos publicos como privados;
+* vamos criar uma conta em github.com
