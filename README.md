@@ -26,3 +26,5 @@ O que é Git?
   * o repositorio pode ir para servidores que são especializa dos em gerenciar repo:GitHub e Bitbucket;
   * cada um dos desenvolvedores do time pode baixar o repositorio e criar versões diferentes em sua maquina;
   
+Como criar um repositorio?
+* comando git init
