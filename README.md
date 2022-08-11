@@ -29,7 +29,7 @@ O que é Git?
 Como criar um repositorio?
 * comando git init
 
-Como para que serve o git status?
+Para que serve o git status?
 O comando git status exibe as condições do diretório de trabalho e da área de staging.
 
 O que é GitHub?
@@ -44,3 +44,10 @@ Como enviar nossos repositorios locais para o GitHub;
 * e esta sequencia que parece ser complexa é facilemnte executada por poucos comandos;
 * vale lembrar que só fazemos uma vez por projeto este fluxo;
 * porem alguns dos comandos utilizados vão ser úteis ao longo do curso;
+
+COMANDOS_________________________________________
+git init - Criar um repositorio
+git status - exibe as exibe as condições do diretório de trabalho e da área de staging
+git commit -m "seu comentario" - faz um comentario salve
+git branch -M nomedabranch - esse comando e para criar sua branch principal
+
