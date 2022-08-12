@@ -50,4 +50,7 @@ git init - Criar um repositorio
 git status - exibe as exibe as condições do diretório de trabalho e da área de staging
 git commit -m "seu comentario" - faz um comentario salve
 git branch -M nomedabranch - esse comando e para criar sua branch principal
-
+git remote add origin link do teu git - para conectar ao teu repositorio no git
+git remote -v - verica em qual git vc esta conectado
+git push -u origin "nome da sua branch principal" - faz com que suas alteracao subao para o git
+git remote rm orgin - ele remove minha origem
