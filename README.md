@@ -58,4 +58,4 @@ git pull - atualizo minha branch com a develop
 git clone link - cona repositorio
 git rm nomedoarquivo - remover arquivo
 git log - 
-git mv nomearquivo pasta - mover o arquivo
+git mv nomearquivo pasta - mover o arquivo ou renomear o nome do arquivo
