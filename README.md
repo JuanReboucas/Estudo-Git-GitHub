@@ -55,3 +55,4 @@ git remote -v - verica em qual git vc esta conectado
 git push -u origin "nome da sua branch principal" - faz com que suas alteracao subao para o git
 git remote rm orgin - ele remove minha origem
 git pull - atualizo minha branch com a develop
+git clone link - cona repositorio
