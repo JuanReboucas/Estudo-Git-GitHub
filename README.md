@@ -60,4 +60,4 @@ git rm nomedoarquivo - remover arquivo
 git log - 
 git mv nomearquivo pasta - mover o arquivo ou renomear o nome do arquivo || git mv nomedoarquivoaserrenomeado nomedearquivocorreto
 git checkout nome_do_arquivo - desfazer alteracao
-
+git reset --hard origin/nome_da-branch - reseta sua branch atual
