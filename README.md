@@ -45,6 +45,15 @@ Como enviar nossos repositorios locais para o GitHub;
 * vale lembrar que só fazemos uma vez por projeto este fluxo;
 * porem alguns dos comandos utilizados vão ser úteis ao longo do curso;
 
+O que é um branch?
+*Branch é a forma que o git separa as versoes dos projetos;
+*Quando um projeto é criado ele inicia na branch master, esstamos trabalhando nela até este ponto do curso;
+*Geralmente cada nova feature de um projeto fica em um branch separado.;
+*Após a finilização das alterações os branchs são unidos para ter o codigo-fonte final;
+
+DEVELOP aterações 
+ESTEIGE pre producao
+
 COMANDOS_________________________________________
 git init - Criar um repositorio
 git status - exibe as exibe as condições do diretório de trabalho e da área de staging
