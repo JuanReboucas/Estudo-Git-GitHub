@@ -54,6 +54,13 @@ O que é um branch?
 DEVELOP aterações 
 ESTEIGE pre producao
 
+O que é stash?
+*Podemos salvar as modificações atuais para prosseguir com uma outra abordagem de solução e não perder o codigo.
+*O comando git stash
+*Após o comando o branch será resetado para a sua versão de acordo com o repo;
+
+
+
 COMANDOS_________________________________________
 git init - Criar um repositorio
 git status - exibe as exibe as condições do diretório de trabalho e da área de staging
@@ -70,3 +77,8 @@ git log -
 git mv nomearquivo pasta - mover o arquivo ou renomear o nome do arquivo || git mv nomedoarquivoaserrenomeado nomedearquivocorreto
 git checkout nome_do_arquivo - desfazer alteracao
 git reset --hard origin/nome_da-branch - reseta sua branch atual
+git stash - guarda todas as suas alterações no git
+git stash list - lista tudo oq tem
+git stash aplly 1(posição na lista) - recupera oq esta no stash
+
+
