@@ -80,5 +80,6 @@ git reset --hard origin/nome_da-branch - reseta sua branch atual
 git stash - guarda todas as suas alterações no git
 git stash list - lista tudo oq tem
 git stash aplly 1(posição na lista) - recupera oq esta no stash
-
-
+git stash show 1(posição na lista) - consigo ver oq foi alterado
+git stash clear - apaga tudo oq tem
+git stash drop 1(posição na lista) - apga o item desejado apenas
