@@ -88,3 +88,4 @@ git clean - vai verificar e limpar arquivo que n estao sendo trackeados;
 git gc - ele identifica arquivos que noa sao mais necessarios e os exclui.
 git fsck - verifica a integridade de arquivos e sua conectividade;
 git reflog - mapear todos os seus passo no repositorio
+git archive --format zip --output master_files.zip master - faz backup do repositorio
