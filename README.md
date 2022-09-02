@@ -84,3 +84,6 @@ git stash show 1(posição na lista) - consigo ver oq foi alterado
 git stash clear - apaga tudo oq tem
 git stash drop 1(posição na lista) - apga o item desejado apenas
 git shortlog - nos da um log resumido do projeto
+git clean - vai verificar e limpar arquivo que n estao sendo trackeados;
+git gc - ele identifica arquivos que noa sao mais necessarios e os exclui.
+git fsck - verifica a integridade de arquivos e sua conectividade;
